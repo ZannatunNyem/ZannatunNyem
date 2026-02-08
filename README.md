@@ -1,5 +1,5 @@
 <h1 >Hi 👋 I'm Zannatun Nyem Naziat</h1>
-<h3>Full Stack Developer • Learner • Builder</h3>
+<h3>Junior Full Stack Developer • Learner • Builder</h3>
 
 <p>Welcome to my GitHub profile! I’m a passionate learner and developer who enjoys building interactive and responsive web projects. I like exploring new technologies, improving my skills, and turning ideas into real applications.</p>
 
