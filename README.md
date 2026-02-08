@@ -14,6 +14,11 @@ I’m a passionate learner and developer who enjoys building interactive and res
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatunNyem)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatunNyem&layout=compact" />
+</p>
+
+
 
 ## 📌 Projects
 Check out my repositories to see what I’m working on!
