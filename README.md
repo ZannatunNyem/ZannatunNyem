@@ -21,11 +21,6 @@
 ---
 
 
-## 🌟 Projects
-Check my repositories to see what I’m building!
+### ⭐ Projects
+<p >Check my repositories to see what I’m building!</p>
 
----
-
-<p >
-⭐ Thanks for visiting my profile!
-</p>
