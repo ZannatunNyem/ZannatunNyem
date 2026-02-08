@@ -1,22 +1,38 @@
-# Hi, I'm Zannatun 💻
-
-Welcome to my GitHub profile!
-
-I’m a passionate learner and developer who enjoys building interactive and responsive web projects. I like exploring new technologies, improving my skills, and turning ideas into real applications.
+<h1 align="center">Hi 👋 I'm Zannatun</h1>
+<h3 align="center">Full Stack Developer • Learner • Builder</h3>
 
 
 ## 🛠 Skills
-- HTML / CSS / JavaScript
-- React
-- Firebase
-- Node.js
-- MongoDB
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,nodejs,mongodb" />
+</p>
 
+---
 
-## 📌 Projects
-Check out my repositories to see what I’m working on!
+## 📊 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZannatunNyem&layout=compact&theme=radical" />
+</p>
 
- Thanks for visiting my profile!
+---
 
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZannatunNyem&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=ZannatunNyem&theme=radical" />
+</p>
+
+---
+
+## 🌟 Projects
+Check my repositories to see what I’m building!
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
