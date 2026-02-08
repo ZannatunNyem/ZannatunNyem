@@ -12,12 +12,6 @@ I’m a passionate learner and developer who enjoys building interactive and res
 - Node.js
 - MongoDB
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatunNyem)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZannatunNyem&layout=compact" />
-</p>
-
 
 
 ## 📌 Projects
