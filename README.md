@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Zannatun 💻
 
-<!--
-**ZannatunNyem/ZannatunNyem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I’m a passionate learner and developer who enjoys building interactive and responsive web projects. I like exploring new technologies, improving my skills, and turning ideas into real applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+-  Interested in web development and modern tech
+-  Always learning and improving
+-  Focused on building practical, real world projects
+-  Currently working on personal and portfolio projects
+
+## 🛠 Skills
+- HTML / CSS / JavaScript
+- React
+- Firebase
+- Node.js
+- MongoDB
+
+
+## 📌 Projects
+Check out my repositories to see what I’m working on!
+
+
+ Thanks for visiting my profile!
+
